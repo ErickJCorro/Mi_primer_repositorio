@@ -4,4 +4,4 @@ add a line of text
 
 add a second line of text from Github editor
 
-add a 3rd line of text 2
+add a 3rd line of text 
